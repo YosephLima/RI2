@@ -9,7 +9,7 @@
 
 ## 🚀 Como inicializar o projeto
 
-### 3. Execute o Script javascript
+### 1. Execute o Script javascript
 
 ```bash
 node RI2.js
